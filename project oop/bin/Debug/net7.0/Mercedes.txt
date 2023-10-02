@@ -1,0 +1,1 @@
+Name of car : C180,ID of car : CCC 8888,Color of car : Black,Price of car : 1250000,Model of car : 2018 ENDName of car : E200,ID of car : EEE 2222,Color of car : green,Price of car : 990000,Model of car : 2016 END

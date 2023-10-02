@@ -1,0 +1,14 @@
+E:\VS file\project oop\project oop\bin\Debug\net7.0\project oop.exe
+E:\VS file\project oop\project oop\bin\Debug\net7.0\project oop.deps.json
+E:\VS file\project oop\project oop\bin\Debug\net7.0\project oop.runtimeconfig.json
+E:\VS file\project oop\project oop\bin\Debug\net7.0\project oop.dll
+E:\VS file\project oop\project oop\bin\Debug\net7.0\project oop.pdb
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.AssemblyInfoInputs.cache
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.AssemblyInfo.cs
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.csproj.CoreCompileInputs.cache
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.dll
+E:\VS file\project oop\project oop\obj\Debug\net7.0\refint\project oop.dll
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.pdb
+E:\VS file\project oop\project oop\obj\Debug\net7.0\project oop.genruntimeconfig.cache
+E:\VS file\project oop\project oop\obj\Debug\net7.0\ref\project oop.dll

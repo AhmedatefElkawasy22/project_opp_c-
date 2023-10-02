@@ -1,0 +1,1 @@
+Name of car : tussan,ID of car : ttt 4578,Color of car : white,Price of car : 1450000,Model of car : 2021 ENDName of car : accent,ID of car : aaa 5756,Color of car : darck,Price of car : 750000,Model of car : 2015 END
